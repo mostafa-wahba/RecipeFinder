@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RecipeFinder/static/css/main.1a6695ed.css",
+    "main.js": "/RecipeFinder/static/js/main.cc44b649.js",
+    "static/js/787.ccfe93b3.chunk.js": "/RecipeFinder/static/js/787.ccfe93b3.chunk.js",
+    "static/media/avatar.svg": "/RecipeFinder/static/media/avatar.a82f4ee704fdd880f4d821c85b42a7c5.svg",
+    "index.html": "/RecipeFinder/index.html",
+    "main.1a6695ed.css.map": "/RecipeFinder/static/css/main.1a6695ed.css.map",
+    "main.cc44b649.js.map": "/RecipeFinder/static/js/main.cc44b649.js.map",
+    "787.ccfe93b3.chunk.js.map": "/RecipeFinder/static/js/787.ccfe93b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a6695ed.css",
+    "static/js/main.cc44b649.js"
+  ]
+}
